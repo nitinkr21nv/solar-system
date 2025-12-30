@@ -381,7 +381,7 @@ class ToolbarBox(SugarToolbarBox):
         button.add_paragraph(
             _("The Solar System activity is a tool to encourage children\n") +
             _("to learn more about the planets and their moons (natural satellites).\n") +
-            _("It is my hope that this tool serves as a practical and interactve\n") +
+            _("It is my hope that this tool serves as a practical and interactive\n") +
             _("way to explore astronomy.\n")) # flake8: noqa
 
         button.add_section(_("About scales"))

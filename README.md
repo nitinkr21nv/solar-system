@@ -3,7 +3,7 @@
 ### What is the Solar System activity?
 The Solar System activity is a tool to encourage children
 to learn more about the planets and their moons (natural satellites).
-It is my hope that this tool serves as a practical and interactve
+It is my hope that this tool serves as a practical and interactive
 way to explore astronomy.
 
 ### Learn more about Sugar 
